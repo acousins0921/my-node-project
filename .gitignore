@@ -1,1 +1,3 @@
 -n "$(cat .gitignore)" 
+".env" 
+"node_modules/" 
